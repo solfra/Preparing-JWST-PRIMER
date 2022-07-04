@@ -6,3 +6,6 @@ Modify catalogue create by EGG for Skymaker for having only disk or only bulge g
 
 ## Lower re  
 Modify catalogue create by EGG for Skymaker for having gaalxies 2 times smaller.  
+
+## image ADU
+Convert image create in ADU/s to an image in ADU.    
